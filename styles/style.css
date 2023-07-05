@@ -50,7 +50,6 @@
     font-style: normal;
     font-weight: normal;
     line-height: 1.35;
-    place-self: center right;
   }
   
   .address a {
@@ -59,6 +58,7 @@
   }
   
   .header__address {
+    place-self: center right;
   }
   
   .cover {

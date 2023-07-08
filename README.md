@@ -1,1 +1,1 @@
-pmolukov/ono-tebe-nado
+https://github.com/pmolukov/ono-tebe-nado

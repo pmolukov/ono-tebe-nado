@@ -173,15 +173,16 @@
 }
 
 .lots__card-list-item {
-  max-width: 430px;
+  width: 430px;
   min-height: 450px;
-}
-
-.lots__card-list-item:last-child {
-  max-width: 100%;
-  flex-basis: 430px;
   flex-grow: 1;
 }
+
+/* .lots__card-list-item:last-child {
+  max-width: 100%;
+  flex-basis: 430px;
+  flex-grow: 1; 
+} */
 
 .card-link {
   text-decoration: none;
